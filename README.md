@@ -4,7 +4,7 @@ Therefore, the design of this website makes it as easy
 Most problems during updates come from broken dependencies,
  so we only introduce a dependency if it's absolutely necessary.
 Currently the only dependency is pandoc which is used
- by nearly all site generators, maintained by a health community,
+ by nearly all site generators, maintained by a healthy community,
  and will likely survive to the forseeable future.
 In the same spirit, if something is simple enough to do manually
  we avoid brittle automated pipelines.
