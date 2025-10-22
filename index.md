@@ -6,6 +6,8 @@ pagetitle: UCLA RePL
 
 Relational Programming Lab at UCLA.
 
+[RSS feed](./blog.xml)
+
 <table>
   <tbody style="border: none;">
     <tr>
