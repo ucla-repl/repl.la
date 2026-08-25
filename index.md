@@ -29,7 +29,7 @@ The Relational Programming Lab (RePL) at UCLA studies fundamental
 | UG      | [Ethan Lim](https://www.linkedin.com/in/ethanhlim)                                                       |
 +---------+----------------------------------------------------------------------------------------------------------+
 
-[Alumni](https://remy.wang/alumni.html)
+[1]: https://remy.wang/alumni.html
 
 ### Software
 
@@ -39,3 +39,15 @@ The Relational Programming Lab (RePL) at UCLA studies fundamental
 
 ::: {#refs}
 :::
+
+### Alumni
+
+Student                                                                    Degree First Employment
+-------------------------------------------------------------------------- ------ ----------------
+[Sean Hoffmeister](https://www.linkedin.com/in/sean-hoffmeister-10618822a) MS     Stripe
+[Alan Yao](https://www.linkedin.com/in/alan-yao-ucla)                      MS     PhD@UPenn
+[Vincent Lin](https://github.com/vinlin24)                                 MS     Stripe
+[Jiahe Yan](https://www.linkedin.com/in/jiahe-yan)                         MS     Snowflake
+Daniel Yang                                                                UG     Roblox
+[Paul Zhang](https://www.linkedin.com/in/paulzyzhang)                      UG     PhD@Northwestern
+
