@@ -21,13 +21,11 @@ The Relational Programming Lab (RePL) at UCLA studies fundamental
 
 ### Members
 
-+---------+----------------------------------------------------------------------------------------------------------+
-| Faculty | [Remy Wang](https://remy.wang)                                                                           |
-+---------+----------------------------------------------------------------------------------------------------------+
-| PhD     | [Zheng Luo](https://zhengluo.org), [Sai Achalla](https://saiachalla.com), [Zeyuan Hu](https://zhu45.org) |
-+---------+----------------------------------------------------------------------------------------------------------+
-| UG      | [Ethan Lim](https://www.linkedin.com/in/ethanhlim)                                                       |
-+---------+----------------------------------------------------------------------------------------------------------+
+--------- --------------------------------------------------------------------------------------------------------
+Faculty   [Remy Wang](https://remy.wang)
+PhD       [Zheng Luo](https://zhengluo.org), [Sai Achalla](https://saiachalla.com), [Zeyuan Hu](https://zhu45.org)
+UG        [Ethan Lim](https://www.linkedin.com/in/ethanhlim)
+--------- --------------------------------------------------------------------------------------------------------
 
 [1]: https://remy.wang/alumni.html
 
@@ -42,7 +40,6 @@ The Relational Programming Lab (RePL) at UCLA studies fundamental
 
 ### Alumni
 
-Student                                                                    Degree First Employment
 -------------------------------------------------------------------------- ------ ----------------
 [Sean Hoffmeister](https://www.linkedin.com/in/sean-hoffmeister-10618822a) MS     Stripe
 [Alan Yao](https://www.linkedin.com/in/alan-yao-ucla)                      MS     PhD@UPenn
@@ -50,4 +47,4 @@ Student                                                                    Degre
 [Jiahe Yan](https://www.linkedin.com/in/jiahe-yan)                         MS     Snowflake
 Daniel Yang                                                                UG     Roblox
 [Paul Zhang](https://www.linkedin.com/in/paulzyzhang)                      UG     PhD@Northwestern
-
+-------------------------------------------------------------------------- ------ ----------------
