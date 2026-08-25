@@ -29,6 +29,8 @@ The Relational Programming Lab (RePL) at UCLA studies fundamental
 | UG      | [Ethan Lim](https://www.linkedin.com/in/ethanhlim)                                                       |
 +---------+----------------------------------------------------------------------------------------------------------+
 
+[Alumni](https://remy.wang/alumni.html)
+
 ### Software
 
 [Prela](https://prela-lang.org): a relational language focusing on compositionality and control.
