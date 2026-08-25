@@ -17,7 +17,7 @@ The Relational Programming Lab (RePL) at UCLA studies fundamental
  problems in databases and programming languages,
  including algorithms for query execution,
  query optimization,
- and the design of relational languages.
+ and the design of query languages.
 
 ### Members
 
@@ -31,7 +31,7 @@ UG        [Ethan Lim](https://www.linkedin.com/in/ethanhlim)
 
 ### Software
 
-[Prela](https://prela-lang.org): a relational language focusing on compositionality and control.
+[Prela](https://prela-lang.org): a query language focusing on compositionality and control.
 
 ### Recent Publications
 
