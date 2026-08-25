@@ -1,25 +1,39 @@
 ---
 pagetitle: UCLA RePL
+header-includes: |
+  <style>
+    table, tbody, th, td { border: none; }
+    div.csl-entry { padding: 0.5em; }
+  </style>
+bibliography: pubs.bib
+csl: pubs.csl
+nocite: |
+  @*
 ---
 
 # UCLA RePL
 
-Relational Programming Lab at UCLA.
+The Relational Programming Lab (RePL) at UCLA studies fundamental
+ problems in databases and programming languages,
+ including algorithms for query execution,
+ query optimization,
+ and the design of relational languages.
 
-[RSS feed](./feed.rss)
+### Members
 
-<table>
-  <tbody style="border: none;">
-    <tr>
-      <td>2025-10-21</td>
-      <td>[Another Post](example.com)</td>
-    </tr>
++---------+----------------------------------------------------------------------------------------------------------+
+| Faculty | [Remy Wang](https://remy.wang)                                                                           |
++---------+----------------------------------------------------------------------------------------------------------+
+| PhD     | [Zheng Luo](https://zhengluo.org), [Sai Achalla](https://saiachalla.com), [Zeyuan Hu](https://zhu45.org) |
++---------+----------------------------------------------------------------------------------------------------------+
+| UG      | [Ethan Lim](https://www.linkedin.com/in/ethanhlim)                                                       |
++---------+----------------------------------------------------------------------------------------------------------+
 
-    <tr>
-      <td>2025-09-01</td>
-      <td>[A Post](example.com)</td>
-    </tr>
+### Software
 
-  </tbody>
-</table>
+[Prela](https://prela-lang.org): a relational language focusing on compositionality and control.
 
+### Recent Publications
+
+::: {#refs}
+:::

@@ -1,0 +1,147 @@
+@article{DBLP:journals/corr/abs-2607-26356,
+  author       = {Yisu Remy Wang and
+                  Paul Talma},
+  title        = {Revisiting the Algebraic Foundation of Relational Data},
+  journal      = {CoRR},
+  volume       = {abs/2607.26356},
+  year         = {2026},
+  url          = {https://doi.org/10.48550/arXiv.2607.26356},
+  doi          = {10.48550/ARXIV.2607.26356},
+  eprinttype   = {arXiv},
+  eprint       = {2607.26356},
+  timestamp    = {Tue, 11 Aug 2026 13:51:45 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2607-26356.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@misc{koutris2026databasetheoryactionyannakakis,
+      title={Database Theory in Action: Yannakakis' Algorithm}, 
+      author={Paraschos Koutris and Stijn Vansummeren and Qichen Wang and Yisu Remy Wang and Xiangyao Yu},
+      year={2026},
+      eprint={2601.00098},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB},
+      url={https://arxiv.org/abs/2601.00098}, 
+}
+
+@misc{luo2026algorithmsoptimizingacyclicqueries,
+      title={Algorithms for Optimizing Acyclic Queries}, 
+      author={Zheng Luo and Wim Van den Broeck and Guy Van den Broeck and Yisu Remy Wang},
+      year={2026},
+      eprint={2509.14144},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB},
+      url={https://arxiv.org/abs/2509.14144}, 
+}
+
+@inproceedings{DBLP:conf/icdt/SuciuW025,
+  author       = {Dan Suciu and
+                  Yisu Remy Wang and
+                  Yihong Zhang},
+  editor       = {Sudeepa Roy and
+                  Ahmet Kara},
+  title        = {Semantic Foundations of Equality Saturation},
+  booktitle    = {28th International Conference on Database Theory, {ICDT} 2025, Barcelona,
+                  Spain, March 25-28, 2025},
+  series       = {LIPIcs},
+  volume       = {328},
+  pages        = {11:1--11:18},
+  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year         = {2025},
+  url          = {https://doi.org/10.4230/LIPIcs.ICDT.2025.11},
+  doi          = {10.4230/LIPICS.ICDT.2025.11},
+  timestamp    = {Fri, 21 Nov 2025 14:06:54 +0100},
+  biburl       = {https://dblp.org/rec/conf/icdt/SuciuW025.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/icdt/0004SWW25,
+  author       = {Yihong Zhang and
+                  Dan Suciu and
+                  Yisu Remy Wang and
+                  Max Willsey},
+  editor       = {Sudeepa Roy and
+                  Ahmet Kara},
+  title        = {Database Theory in Action: Search-Based Program Optimization},
+  booktitle    = {28th International Conference on Database Theory, {ICDT} 2025, Barcelona,
+                  Spain, March 25-28, 2025},
+  series       = {LIPIcs},
+  volume       = {328},
+  pages        = {34:1--34:6},
+  publisher    = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
+  year         = {2025},
+  url          = {https://doi.org/10.4230/LIPIcs.ICDT.2025.34},
+  doi          = {10.4230/LIPICS.ICDT.2025.34},
+  timestamp    = {Fri, 21 Nov 2025 14:06:54 +0100},
+  biburl       = {https://dblp.org/rec/conf/icdt/0004SWW25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{DBLP:journals/pvldb/BekkersNVW25,
+  author       = {Liese Bekkers and
+                  Frank Neven and
+                  Stijn Vansummeren and
+                  Yisu Remy Wang},
+  title        = {Instance-Optimal Acyclic Join Processing Without Regret: Engineering
+                  the Yannakakis Algorithm in Column Stores},
+  journal      = {Proc. {VLDB} Endow.},
+  volume       = {18},
+  number       = {8},
+  pages        = {2413--2426},
+  year         = {2025},
+  url          = {https://www.vldb.org/pvldb/vol18/p2413-vansummeren.pdf},
+  doi          = {10.14778/3742728.3742737},
+  timestamp    = {Wed, 17 Dec 2025 16:44:24 +0100},
+  biburl       = {https://dblp.org/rec/journals/pvldb/BekkersNVW25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@article{10.1145/3774325, author = {Hu, Zeyuan and Wang, Yisu Remy and Miranker, Daniel P}, title = {TreeTracker Join: Simple, Optimal, Fast}, year = {2025}, publisher = {Association for Computing Machinery}, address = {New York, NY, USA}, issn = {0362-5915}, url = {https://doi.org/10.1145/3774325}, doi = {10.1145/3774325}, abstract = {We present a novel linear-time acyclic join algorithm, TreeTracker Join (TTJ). The algorithm can be understood as the pipelined binary hash join with a simple twist: upon a hash lookup failure, TTJ resets execution to the binding of the tuple causing the failure, and removes the offending tuple from its relation. Compared to the best known linear-time acyclic join algorithm, Yannakakis’s algorithm, TTJ shares the same asymptotic complexity while imposing lower overhead. Further, we prove that when measuring query performance by counting the number of hash probes, TTJ will match or outperform binary hash join on the same plan. This property holds independently of the plan and independently of acyclicity. We are able to extend our theoretical results to cyclic queries by introducing a new hypergraph decomposition method called tree convolution. Tree convolution iteratively identifies and contracts acyclic subgraphs of the query hypergraph. The method avoids redundant calculations associated with tree decomposition and may be of independent interest. Empirical results on TPC-H, the Join Order Benchmark, and the Star Schema Benchmark demonstrate favorable results.}, note = {Just Accepted}, journal = {ACM Trans. Database Syst.}, month = oct, keywords = {optimal join algorithm, acyclic conjunctive queries, join ordering} }
+
+@article{10.1145/3643027,
+author = {Abo Khamis, Mahmoud and Ngo, Hung Q. and Pichler, Reinhard and Suciu, Dan and Wang, Yisu Remy},
+title = {Convergence of datalog over (Pre-) Semirings},
+year = {2024},
+issue_date = {April 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {71},
+number = {2},
+issn = {0004-5411},
+url = {https://doi.org/10.1145/3643027},
+doi = {10.1145/3643027},
+abstract = {Recursive queries have been traditionally studied in the framework of datalog, a language that restricts recursion to monotone queries over sets, which is guaranteed to converge in polynomial time in the size of the input. But modern big data systems require recursive computations beyond the Boolean space. In this article, we study the convergence of datalog when it is interpreted over an arbitrary semiring. We consider an ordered semiring, define the semantics of a datalog program as a least fixpoint in this semiring, and study the number of steps required to reach that fixpoint, if ever. We identify algebraic properties of the semiring that correspond to certain convergence properties of datalog programs. Finally, we describe a class of ordered semirings on which one can use the semi-na\"{\i}ve evaluation algorithm on any datalog program.},
+journal = {J. ACM},
+month = apr,
+articleno = {8},
+numpages = {55},
+keywords = {Datalog, semirings, fixpoint}
+}
+
+@article{DBLP:journals/sigmod/WangWS24,
+  author       = {Yisu Remy Wang and
+                  Max Willsey and
+                  Dan Suciu},
+  title        = {From Binary Join to Free Join},
+  journal      = {{SIGMOD} Rec.},
+  volume       = {53},
+  number       = {1},
+  pages        = {25--31},
+  year         = {2024},
+  url          = {https://doi.org/10.1145/3665252.3665259},
+  doi          = {10.1145/3665252.3665259},
+  timestamp    = {Tue, 11 Jun 2024 21:46:00 +0200},
+  biburl       = {https://dblp.org/rec/journals/sigmod/WangWS24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@phdthesis{DBLP:phd/us/Wang23o,
+  author       = {Yisu Remy Wang},
+  title        = {Relational Programming},
+  school       = {University of Washington, {USA}},
+  year         = {2023},
+  url          = {http://hdl.handle.net/1773/50757},
+  timestamp    = {Fri, 03 Jan 2025 16:58:14 +0100},
+  biburl       = {https://dblp.org/rec/phd/us/Wang23o.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
