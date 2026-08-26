@@ -4,6 +4,7 @@ header-includes: |
   <style>
     table, tbody, th, td { border: none; }
     div.csl-entry { padding: 0.5em; }
+    html { background-color: #F0EEE9; }
   </style>
 bibliography: pubs.bib
 csl: pubs.csl

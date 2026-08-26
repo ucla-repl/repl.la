@@ -1,7 +1,7 @@
 PANDOC_OPTIONS := -f markdown \
                   -t html -s \
                   -V maxwidth=650px \
-                  -V mainfont=serif \
+                  -V mainfont=palatino,serif \
                   --citeproc
 
 PUBS_N := 10
