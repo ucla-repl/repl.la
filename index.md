@@ -21,13 +21,23 @@ The Relational Programming Lab (RePL) at UCLA studies fundamental
 
 ### Members
 
---------- --------------------------------------------------------------------------------------------------------
-Faculty   [Remy Wang](https://remy.wang)
-PhD       [Zheng Luo](https://zhengluo.org), [Sai Achalla](https://saiachalla.com), [Zeyuan Hu](https://zhu45.org)
-UG        [Ethan Lim](https://www.linkedin.com/in/ethanhlim)
---------- --------------------------------------------------------------------------------------------------------
+--------- ---------------------------------------------------------------------
+Faculty   [Remy Wang][rw]
+PhD       [Zheng Luo][zl], [Sai Achalla][sa], [Zeyuan Hu][zh], [Paul Talma][pt]
+UG        [Ethan Lim][el]
+--------- ---------------------------------------------------------------------
 
-[1]: https://remy.wang/alumni.html
+[rw]: https://remy.wang
+[zl]: https://zhengluo.org
+[sa]: https://saiachalla.com
+[zh]: https://zhu45.org
+[el]: https://www.linkedin.com/in/ethanhlim
+[pt]: https://paul-talma.github.io
+[sh]: https://www.linkedin.com/in/sean-hoffmeister-10618822a
+[ay]: https://www.linkedin.com/in/alan-yao-ucla
+[vl]: https://github.com/vinlin24
+[jy]: https://www.linkedin.com/in/jiahe-yan
+[pz]: https://www.linkedin.com/in/paulzyzhang
 
 ### Software
 
@@ -40,11 +50,11 @@ UG        [Ethan Lim](https://www.linkedin.com/in/ethanhlim)
 
 ### Alumni
 
--------------------------------------------------------------------------- ------ ----------------
-[Sean Hoffmeister](https://www.linkedin.com/in/sean-hoffmeister-10618822a) MS     Stripe
-[Alan Yao](https://www.linkedin.com/in/alan-yao-ucla)                      MS     PhD@UPenn
-[Vincent Lin](https://github.com/vinlin24)                                 MS     Stripe
-[Jiahe Yan](https://www.linkedin.com/in/jiahe-yan)                         MS     Snowflake
-Daniel Yang                                                                UG     Roblox
-[Paul Zhang](https://www.linkedin.com/in/paulzyzhang)                      UG     PhD@Northwestern
--------------------------------------------------------------------------- ------ ----------------
+------------------------- ------ ----------------
+[Sean Hoffmeister][sh]    MS     Stripe
+[Alan Yao][ay]            MS     PhD@UPenn
+[Vincent Lin][vl]         MS     Stripe
+[Jiahe Yan][jy]           MS     Snowflake
+Daniel Yang               UG     Roblox
+[Paul Zhang][pz]          UG     PhD@Northwestern
+------------------------- ------ ----------------
